@@ -1,0 +1,5 @@
+﻿,,,TEST REPORT,,,,,,,,,,,
+,, Test Name, JB7_SiMP-LFP-PFOF1, Serial Number,, C:\Users\Arbin\Desktop\Jiwoong\2022-09-14\JB7_SiMP-LFP-PFOF1_2022_08_04_135437,,,,,,,,
+,,Export Time,09/13/2022 23:33:17,212863,,,,,,,,,,
+Channel,Start DateTime,Schedule File Name,Creator,Comments,Software Version,Schedule Version,MASS(g),Specific Capacity(Ah/g),Capacity(Ah),BarCode,Has Aux,Has Specail,Log Aux Data Flag,Log Special Flag
+80,08/04/2022 13:54:37,Jiwoong\Si-LFP\Si-LFP_new\JB_Si-LFP_1.81mAhcm2_500cycling_+RD-2032_01.sdx,JB,JB7_SiMP-LFP-PFOF1,Mits8 PV Build: 202110,Schedule Version 8.00.11,0,0,0.05,,512,0,False,False
